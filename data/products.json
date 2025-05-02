@@ -1,0 +1,324 @@
+[
+  {
+    "name": "Digestive Enzymes Pro",
+    "illness": "IBS",
+    "description": "Helps break down food for less bloating",
+    "reviews": [
+      "Helped me digest heavy meals!",
+      "No more post-lunch bloat."
+    ]
+  },
+  {
+    "name": "Peppermint Oil Softgels",
+    "illness": "IBS",
+    "description": "Soothes intestinal muscles",
+    "reviews": [
+      "Calmed my cramps instantly."
+    ]
+  },
+  {
+    "name": "Low FODMAP Probiotic",
+    "illness": "IBS",
+    "description": "Contains strains safe for IBS",
+    "reviews": [
+      "No gas or bloating after!"
+    ]
+  },
+  {
+    "name": "IBGard",
+    "illness": "IBS",
+    "description": "Delayed release peppermint capsules",
+    "reviews": [
+      "Doctor-recommended. Worked fast."
+    ]
+  },
+  {
+    "name": "Chamomile Tea",
+    "illness": "IBS",
+    "description": "Reduces inflammation and spasms",
+    "reviews": [
+      "Helps with nighttime bloating."
+    ]
+  },
+  {
+    "name": "L-Glutamine",
+    "illness": "IBS",
+    "description": "Supports gut lining",
+    "reviews": [
+      "Improved my digestion over time."
+    ]
+  },
+  {
+    "name": "Psyllium Husk",
+    "illness": "IBS",
+    "description": "Natural fiber supplement",
+    "reviews": [
+      "Gentle and effective."
+    ]
+  },
+  {
+    "name": "Digest Basic",
+    "illness": "IBS",
+    "description": "Everyday enzyme support",
+    "reviews": [
+      "Works without side effects."
+    ]
+  },
+  {
+    "name": "Aloe Vera Juice",
+    "illness": "IBS",
+    "description": "Soothes digestive tract",
+    "reviews": [
+      "Reduces acid and discomfort."
+    ]
+  },
+  {
+    "name": "Slippery Elm",
+    "illness": "IBS",
+    "description": "Herbal gut coating support",
+    "reviews": [
+      "Feels calming on my stomach."
+    ]
+  },
+  {
+    "name": "Myo-Inositol",
+    "illness": "PCOS",
+    "description": "Supports hormone balance and insulin sensitivity",
+    "reviews": [
+      "Period became regular!",
+      "Less hormonal acne."
+    ]
+  },
+  {
+    "name": "D-Chiro Inositol",
+    "illness": "PCOS",
+    "description": "Often paired with Myo-Inositol",
+    "reviews": [
+      "Improved ovulation."
+    ]
+  },
+  {
+    "name": "Berberine",
+    "illness": "PCOS",
+    "description": "Natural insulin regulator",
+    "reviews": [
+      "Blood sugar stabilized."
+    ]
+  },
+  {
+    "name": "Spearmint Tea",
+    "illness": "PCOS",
+    "description": "Reduces androgens",
+    "reviews": [
+      "Less facial hair over 2 months."
+    ]
+  },
+  {
+    "name": "Maca Root",
+    "illness": "PCOS",
+    "description": "Balances hormones and boosts energy",
+    "reviews": [
+      "Felt more balanced."
+    ]
+  },
+  {
+    "name": "Zinc Supplement",
+    "illness": "PCOS",
+    "description": "Helps with acne and hormone support",
+    "reviews": [
+      "Skin cleared up!"
+    ]
+  },
+  {
+    "name": "Ashwagandha",
+    "illness": "PCOS",
+    "description": "Adaptogen for stress-related hormone imbalance",
+    "reviews": [
+      "Lowered cortisol and anxiety."
+    ]
+  },
+  {
+    "name": "Omega-3 Fish Oil",
+    "illness": "PCOS",
+    "description": "Anti-inflammatory support",
+    "reviews": [
+      "Less bloating and brain fog."
+    ]
+  },
+  {
+    "name": "Chromium Picolinate",
+    "illness": "PCOS",
+    "description": "Improves blood sugar metabolism",
+    "reviews": [
+      "Fewer cravings."
+    ]
+  },
+  {
+    "name": "Vitamin D3",
+    "illness": "PCOS",
+    "description": "Supports endocrine system",
+    "reviews": [
+      "Mood improved, better cycles."
+    ]
+  },
+  {
+    "name": "Curcumin",
+    "illness": "Ulcerative Colitis",
+    "description": "Anti-inflammatory turmeric extract",
+    "reviews": [
+      "Reduced flare-ups."
+    ]
+  },
+  {
+    "name": "Boswellia",
+    "illness": "Ulcerative Colitis",
+    "description": "Natural anti-inflammatory resin",
+    "reviews": [
+      "Gentle on my gut."
+    ]
+  },
+  {
+    "name": "Probiotic 50 Billion",
+    "illness": "Ulcerative Colitis",
+    "description": "High-potency probiotic",
+    "reviews": [
+      "Helped restore balance."
+    ]
+  },
+  {
+    "name": "Omega-3 EPA/DHA",
+    "illness": "Ulcerative Colitis",
+    "description": "Fights inflammation",
+    "reviews": [
+      "Fewer symptoms."
+    ]
+  },
+  {
+    "name": "Aloe Vera Capsules",
+    "illness": "Ulcerative Colitis",
+    "description": "Soothes intestines",
+    "reviews": [
+      "Feels cooling inside."
+    ]
+  },
+  {
+    "name": "L-Glutamine",
+    "illness": "Ulcerative Colitis",
+    "description": "Supports gut lining repair",
+    "reviews": [
+      "Fewer flare-ups."
+    ]
+  },
+  {
+    "name": "Slippery Elm Bark",
+    "illness": "Ulcerative Colitis",
+    "description": "Coats digestive tract",
+    "reviews": [
+      "Less urgency."
+    ]
+  },
+  {
+    "name": "Vitamin D",
+    "illness": "Ulcerative Colitis",
+    "description": "Supports immune function",
+    "reviews": [
+      "Helps regulate inflammation."
+    ]
+  },
+  {
+    "name": "Zinc Carnosine",
+    "illness": "Ulcerative Colitis",
+    "description": "Gut mucosa protector",
+    "reviews": [
+      "Helps recovery."
+    ]
+  },
+  {
+    "name": "N-Acetyl Glucosamine",
+    "illness": "Ulcerative Colitis",
+    "description": "Promotes mucosal healing",
+    "reviews": [
+      "Recommended by my integrative doc."
+    ]
+  },
+  {
+    "name": "Vitamin D3",
+    "illness": "Psoriasis",
+    "description": "Supports skin immune regulation",
+    "reviews": [
+      "My patches faded!"
+    ]
+  },
+  {
+    "name": "Fish Oil",
+    "illness": "Psoriasis",
+    "description": "Anti-inflammatory for skin",
+    "reviews": [
+      "Less redness and scaling."
+    ]
+  },
+  {
+    "name": "Curcumin Complex",
+    "illness": "Psoriasis",
+    "description": "Turmeric extract for inflammation",
+    "reviews": [
+      "Itching reduced."
+    ]
+  },
+  {
+    "name": "Oregon Grape Root",
+    "illness": "Psoriasis",
+    "description": "Herbal antimicrobial",
+    "reviews": [
+      "Worked topically and orally."
+    ]
+  },
+  {
+    "name": "Zinc Gluconate",
+    "illness": "Psoriasis",
+    "description": "Supports skin healing",
+    "reviews": [
+      "Used it for flare-ups."
+    ]
+  },
+  {
+    "name": "Aloe Vera Gel",
+    "illness": "Psoriasis",
+    "description": "Topical soother",
+    "reviews": [
+      "Feels amazing on dry skin."
+    ]
+  },
+  {
+    "name": "Borage Oil",
+    "illness": "Psoriasis",
+    "description": "Source of GLA for skin support",
+    "reviews": [
+      "Softened plaques."
+    ]
+  },
+  {
+    "name": "Probiotic Skin Blend",
+    "illness": "Psoriasis",
+    "description": "Gut-skin axis support",
+    "reviews": [
+      "Reduced triggers."
+    ]
+  },
+  {
+    "name": "Milk Thistle",
+    "illness": "Psoriasis",
+    "description": "Liver detox support",
+    "reviews": [
+      "Fewer toxins, fewer flares."
+    ]
+  },
+  {
+    "name": "Biotin",
+    "illness": "Psoriasis",
+    "description": "Promotes skin health",
+    "reviews": [
+      "Stronger skin barrier."
+    ]
+  }
+]
